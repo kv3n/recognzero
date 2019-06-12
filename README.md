@@ -1,7 +1,7 @@
 # Recogn Zero
 
 ## Overview
-An attempt at building a visual relationship recognizer for [Open Images 2019 Kaggle](https://www.kaggle.com/c/open-images-2019-visual-relationship). Google presented a challenge on Kaggle to try and build a model for detecting visual realationships between objects detected in an image. Through Recogn Zero, we are attempting to create a simple approach to solve the problem, or at the very least understand the issues with the problem to try and build a better approach.
+Recogn Zero (pronounced recon-zero) attempt at building a visual relationship recognizer for [Open Images 2019 Kaggle](https://www.kaggle.com/c/open-images-2019-visual-relationship). Google presented a challenge on Kaggle to try and build a model for detecting visual realationships between objects detected in an image. Through Recogn Zero, we are attempting to create a simple approach to solve the problem, or at the very least understand the issues with the problem to try and build a better approach.
 
 ## Setup
 - Clone the project into a directory
