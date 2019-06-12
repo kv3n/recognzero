@@ -5,7 +5,7 @@ An attempt at building a visual relationship recognizer for [Open Images 2019 Ka
 
 ## Setup
 - Clone the project into a directory
-- Run ```python setup.py``` using any python version to create the necessary virtual environment and package dependencies. Following are the steps performed by setup.py
+- Run ```python setup.py``` from a terminal with version of python installed to create the necessary virtual environment and package dependencies. Following are the steps performed by setup.py
   * Fetch Python 3.6.7, if not already present
   * Create virtual environment with Python 3.6.7 as base, if not already present.
   * Activate the virtual enviroment
